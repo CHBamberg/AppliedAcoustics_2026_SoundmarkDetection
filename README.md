@@ -3,7 +3,7 @@
 This website provides additional data and code accompanying the article submission
 
 Jakob Abeßer & Anna Kruspe: **Operationalizing soundmarks: A data-driven validation of uniqueness,
-typicality, and salience in European cities**, submitted to *Applied Acoustics*, 2026
+typicality, and salience in European cities**, (under review) 2026
 
 ## Sound mapping between AudioSet and Soundscape Categories
 
